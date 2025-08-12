@@ -13,3 +13,5 @@ Line four
 
 Working from feature branch
 changes from local branch
+
+changes from feature1
