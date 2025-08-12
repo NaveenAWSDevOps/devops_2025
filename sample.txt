@@ -1,1 +1,19 @@
 This is a sample file for project devops_2025
+
+New branch is added - develop
+
+
+Release one - v1
+
+Line one
+Line two
+
+Line three
+Line four
+
+Working from feature branch
+changes from local branch
+
+changes from feature1
+
+merge test from develop

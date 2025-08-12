@@ -2,3 +2,5 @@
 my DevOps repository for 2025 
 
 #KodeKloud DevOps Bootcamp project
+
+# git basics
